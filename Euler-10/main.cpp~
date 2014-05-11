@@ -34,7 +34,7 @@ int64_t getSumOfPrimes64(int64_t allUnder)
                 }
             }
             sum += f;
-            //cout << f;
+            cout << f;
         }
     }
     return sum;
